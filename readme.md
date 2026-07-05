@@ -83,33 +83,17 @@ Enterprise-CRM/
 
 ### Login Page
 
-> Add your screenshot here
-
-```
-screenshots/login.png
-```
+![Login](screenshots/login.png)
 
 ---
 
 ### Dashboard
 
-> Add your screenshot here
-
-```
-screenshots/dashboard.png
-```
-
----
+![Dashboard](screenshots/dashboard.png)
 
 ### Lead Management
 
-> Add your screenshot here
-
-```
-screenshots/leads.png
-```
-
----
+![Leads](screenshots/leads.png)
 
 ## ⚙️ Installation
 
